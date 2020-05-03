@@ -1,4 +1,5 @@
 # Kookoat.com, Created by Jeremy Dou
+# This Github repository is only for demonstration purposes
 # Source Code has been taken down for security purposes
 
 Sign-in Page (Desktop):
