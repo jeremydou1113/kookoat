@@ -5,12 +5,14 @@ Sign-in Page (Desktop):
 ![kookoat3](https://user-images.githubusercontent.com/19988752/80908734-3bf52400-8cd7-11ea-8f10-6a5c0cf3a7d5.JPG)
 
 Sign-in Page (Mobile):
+
 ![mobile_reg](https://user-images.githubusercontent.com/19988752/80908837-1fa5b700-8cd8-11ea-89d1-2480650d9913.png)
 
 Main Page (Desktop):
 ![Desktop_homepage](https://user-images.githubusercontent.com/19988752/80908852-39df9500-8cd8-11ea-85e1-c6a8b64012dd.png)
 
 Main Page (Mobile):
+
 ![mobile_homepage](https://user-images.githubusercontent.com/19988752/80908844-30562d00-8cd8-11ea-9d8f-fbb30ab164f5.png)
 
 Desktop Wallpaper:
