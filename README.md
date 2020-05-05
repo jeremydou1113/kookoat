@@ -1,4 +1,4 @@
-# Kookoat.com, Created by Jeremy Dou
+# Kookoat.com, Created by Jeremy Dou. Copyright © 2020 Kookoat.com. All rights reserved.
 # This Github repository is only for demonstration purposes
 # Source Code has been taken down for security purposes
 
