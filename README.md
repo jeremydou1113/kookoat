@@ -1,6 +1,7 @@
 # Kookoat.com, Created by Jeremy Dou. 
 # Copyright © 2020 Kookoat.com. All rights reserved.
 # This Github repository is only for demonstration purposes
+# Please see the PDF file for the Keynote presentation by Jeremy Dou
 # Source Code has been taken down for security purposes
 
 Sign-in Page (Desktop):
